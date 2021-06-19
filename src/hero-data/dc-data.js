@@ -1,21 +1,27 @@
 const justiceLeagueMembers = [
     {
-        name: 'Batman'
+        name: 'Batman',
+        power: 'Rich'
     },
     {
-        name: 'Superman'
+        name: 'Superman',
+        power: 'Flight'
     },
     {
-        name: 'Flash'
+        name: 'Flash',
+        name: 'Speed'
     },
     {
-        name: 'Cyborg'
+        name: 'Cyborg',
+        power: 'cyborg'
     },
     {
-        name: 'Wonder Woman'
+        name: 'Wonder Woman',
+        power: 'Strong'
     },
     {
-        name: 'Green Lantern'
+        name: 'Green Lantern',
+        power: 'Energy projection'
     }
 ];
 

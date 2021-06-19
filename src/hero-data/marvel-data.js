@@ -1,27 +1,34 @@
 const xMenMembers = [
     {
-        name: 'Cyclops'
+        name: 'Cyclops',
+        power: 'Optical blast'
     },
     {
-        name: 'Wolverine'
+        name: 'Wolverine',
+        power: 'Healing'
     },
     {
-        name: 'Professor X'
+        name: 'Professor X',
+        power: 'Telepathy'
     }
 ];
 
 const avengersMembers = [
     {
-        name: 'Captain America'
+        name: 'Captain America',
+        power: 'Strength'
     },
     {
-        name: 'Iron Man'
+        name: 'Iron Man',
+        power: 'Rich'
     },
     {
-        name: 'Ant-Man'
+        name: 'Ant-Man',
+        power: 'Shink'
     },
     {
-        name: 'Thor'
+        name: 'Thor',
+        power: 'Thunder'
     }
 ]
 
