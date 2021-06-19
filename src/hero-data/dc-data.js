@@ -1,21 +1,27 @@
 const justiceLeagueMembers = [
     {
-        name: 'Batman'
+        name: 'Batman',
+        powers: ['rich', 'handsome']
     },
     {
-        name: 'Superman'
+        name: 'Superman',
+        powers: ['flight', 'laser vision', 'x-ray vision', 'super strength', 'bullet-proof']
     },
     {
-        name: 'Flash'
+        name: 'Flash',
+        powers: ['speed', 'time-travel']
     },
     {
-        name: 'Cyborg'
+        name: 'Cyborg',
+        power: ['cyborg', 'mobile hotspot', 'master coder']
     },
     {
-        name: 'Wonder Woman'
+        name: 'Wonder Woman',
+        power: ['super strength', 'whip', 'flight']
     },
     {
-        name: 'Green Lantern'
+        name: 'Green Lantern',
+        power: ['energy projection', 'flight', 'generational insight']
     }
 ];
 
