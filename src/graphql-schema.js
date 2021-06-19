@@ -7,7 +7,7 @@ const typeDefs = `
 
     type Hero {
         name: String
-        power: String
+        powers: [String]
     }
 
     type Marvel {

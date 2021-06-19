@@ -1,34 +1,34 @@
 const xMenMembers = [
     {
         name: 'Cyclops',
-        power: 'Optical blast'
+        powers: ['optical blast', 'leadership skills']
     },
     {
         name: 'Wolverine',
-        power: 'Healing'
+        powers: ['healing', 'adamantium claws', 'idyllic hairline']
     },
     {
         name: 'Professor X',
-        power: 'Telepathy'
+        powers: ['telepathy', 'cerebro', 'mutant soul version control']
     }
 ];
 
 const avengersMembers = [
     {
         name: 'Captain America',
-        power: 'Strength'
+        powers: ['strength', 'privilege', 'co-opted shield']
     },
     {
         name: 'Iron Man',
-        power: 'Rich'
+        powers: ['rich', 'super-suits']
     },
     {
         name: 'Ant-Man',
-        power: 'Shink'
+        powers: ['shrink', 'grow', 'time-travel']
     },
     {
         name: 'Thor',
-        power: 'Thunder'
+        powers: ['thunder', 'love', 'hammer']
     }
 ]
 
